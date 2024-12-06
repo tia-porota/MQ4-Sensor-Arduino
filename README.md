@@ -1,5 +1,5 @@
 
-# MQ135 Air Quality Sensor Library
+# MQ4 CH4 Gas Sensor
 
 MQ135.h
 
